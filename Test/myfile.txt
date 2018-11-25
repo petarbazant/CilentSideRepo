@@ -1,2 +1,3 @@
 this is text file, changes to the file
 this is new line
+This is bug fix
